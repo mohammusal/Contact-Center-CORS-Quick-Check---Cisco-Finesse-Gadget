@@ -92,7 +92,7 @@ finesse.modules.gadget = (function ($) {
                 $('#result').html(" CORS is enabled for all origins ✔").css('color', 'green');
                 }
                 else
-                $('#result').html(" CORS Preflight Test Suceeded ✔").css('color', 'green');
+                $('#result').html(" CORS Preflight Test Succeeded ✔").css('color', 'green');
                      
           }
       

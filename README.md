@@ -1,4 +1,4 @@
-# Cisco Finesse - Task Management Sample Gadget
+# Cisco Finesse - Contact Center CORS Quick Check
 
 The task management sample gadget demonstrates the following functionality:
 1. Logging into a Media Routing Domain (MRD)
@@ -19,7 +19,7 @@ This sample gadget contains the following files:
 	TaskManagementGadget/
     	images/
         	help.png
-        	sprite_presence.png
+        	sprite_presence.pngV
         script-selectors.txt
     	tabpanel.js
 		TaskManagementGadget.css
