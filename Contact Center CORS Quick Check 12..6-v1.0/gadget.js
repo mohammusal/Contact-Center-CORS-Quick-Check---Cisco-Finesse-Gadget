@@ -17,6 +17,7 @@ finesse.modules.gadget = (function ($) {
         render();
     };
 
+    
     CORS =function () {
 
         const fqdn = $('#fqdn').val();
