@@ -114,8 +114,7 @@ finesse.modules.gadget = (function ($) {
 
     validateIPorFQDN= function (input) {
 
-        /* the logic of the code could be eaiser :
-        
+        /*         
         ^: Matches the beginning of the input string.
         (25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?): Matches a single decimal number between 0 and 255. This part is repeated four times for each octet of the IP address.
         25[0-5]: Matches numbers from 250 to 255.

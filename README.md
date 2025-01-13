@@ -2,9 +2,9 @@
 
 Cisco Finesse is a next-generation software application that offers features for Cisco contact center agents and supervisors in UCCE, PCCE and UCCX on the browser. It provides a web interface for agents and supervisors to login, change their state and receive calls. It also helps improve the customer experience while offering a user-centric design to enhance customer care representative satisfaction.
 
-This gadgte is developed as a tool to help troublshooting Cross-origin resource sharing (CORS) related issues with Cisco Finesse loaded gadgtes like Lice data gadgtes and other 3rd party integrated gadgtes. What it does basically it will allow the adminisrtator to generate CORS preflight request from Finesse to memeic the situation when any reports/gadgtes have to be loaded to Cisco Finesse.
+This gadget is developed as a tool to help troublshooting Cross-origin resource sharing (CORS) related issues with Cisco Finesse loaded gadgtes like live data gadgtes and other 3rd party integrated gadgtes. What it does basically it will allow the adminisrtator to generate CORS preflight request from Finesse to mimic the situation when any reports/gadgtes have to be loaded to Cisco Finesse.
 
-Here is a screenshot below of the gagdte/tool with the name "Contact Center CORS Quick Check". It was developed for Ciscon Finesse 12.6.2 ES03 and above, this is a 1.0 version of the gadgate/tool that has to be uploaded to Cisco Finesse server 3rdpartygadget directory in the server it self with upcoming versions it will be developed as an external server to be integrated with Cisco Finesse with more dynamic capabilities overcoming the limitations that are mentioned below sections.
+Here is a screenshot below of the gadget/tool with the name "Contact Center CORS Quick Check". It was developed for Ciscon Finesse 12.6.2 ES03 and above, this is a 1.0 version of the gadgate/tool that has to be uploaded to Cisco Finesse server 3rdpartygadget directory in the server it self with upcoming versions it will be developed as an external server to be integrated with Cisco Finesse with more dynamic capabilities overcoming the limitations that are mentioned below sections.
 
 ![Sample Gadget Screenshot](images/CORSGadget.png)
 
