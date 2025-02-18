@@ -16,7 +16,7 @@ This gadget contains the following files:
         	CORSGadget.png
 		
 		Contact Center CORS Quick Check/
-			gadget.xml
+			TestCORSgadget.xml
 			gadget.js
 			gadget.css
 
